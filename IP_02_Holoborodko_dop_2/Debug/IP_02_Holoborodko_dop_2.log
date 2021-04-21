@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Mike\Documents\C++\IP_02_Holoborodko_dop_2\IP_02_Holoborodko_dop_2\Source.cpp(39,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  IP_02_Holoborodko_dop_2.vcxproj -> C:\Users\Mike\Documents\C++\IP_02_Holoborodko_dop_2\Debug\IP_02_Holoborodko_dop_2.exe
